@@ -13,15 +13,15 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  github: cihatcetinkaya
+  orcid: 0000-0001-8583-196X
+  researchgate: Cihat_Cetinkaya
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: tZDagVMAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
